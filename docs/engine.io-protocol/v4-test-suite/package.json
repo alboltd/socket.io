@@ -1,12 +1,4 @@
 {
-  "name": "engine.io-protocol-test-suite",
-  "version": "0.0.1",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "format": "prettier -w *.js",
-    "test": "mocha test-suite.js"
-  },
   "devDependencies": {
     "chai": "^4.3.6",
     "chai-string": "^1.5.0",
@@ -14,5 +6,31 @@
     "node-fetch": "^3.2.0",
     "prettier": "^2.5.1",
     "ws": "^8.21.0"
-  }
+  },
+  "name": "engine.io-protocol-test-suite",
+  "overrides": {
+    "brace-expansion@\u003e=1 \u003c2": "1.1.22",
+    "brace-expansion@\u003e=2 \u003c3": "2.1.8",
+    "brace-expansion@\u003e=3 \u003c4": "3.0.10",
+    "brace-expansion@\u003e=5 \u003c6": "5.0.13",
+    "braces": "3.0.3",
+    "js-yaml@\u003e=3 \u003c4": "3.15.2",
+    "js-yaml@\u003e=4 \u003c5": "4.3.2",
+    "minimatch@\u003e=10 \u003c11": "10.2.6",
+    "minimatch@\u003e=3 \u003c4": "3.1.5",
+    "minimatch@\u003e=4 \u003c5": "4.2.6",
+    "minimatch@\u003e=5 \u003c6": "5.1.9",
+    "minimatch@\u003e=6 \u003c7": "6.2.3",
+    "minimatch@\u003e=7 \u003c8": "7.4.9",
+    "minimatch@\u003e=8 \u003c9": "8.0.7",
+    "minimatch@\u003e=9 \u003c10": "9.0.9",
+    "serialize-javascript": "7.1.4"
+  },
+  "private": true,
+  "scripts": {
+    "format": "prettier -w *.js",
+    "test": "mocha test-suite.js"
+  },
+  "type": "module",
+  "version": "0.0.1"
 }
