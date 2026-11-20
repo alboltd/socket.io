@@ -28,7 +28,8 @@
   "private": true,
   "resolutions": {
     "form-data": "3.0.5",
-    "shell-quote": "1.12.0"
+    "shell-quote": "1.12.0",
+    "websocket-driver": "0.7.5"
   },
   "scripts": {
     "build": "react-scripts build",
