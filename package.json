@@ -1,24 +1,4 @@
 {
-  "name": "socket.io",
-  "private": true,
-  "workspaces": [
-    "packages/socket.io-component-emitter",
-    "packages/engine.io-parser",
-    "packages/engine.io",
-    "packages/socket.io-cluster-engine",
-    "packages/engine.io-client",
-    "packages/socket.io-adapter",
-    "packages/socket.io-cluster-adapter",
-    "packages/socket.io-parser",
-    "packages/socket.io-client",
-    "packages/socket.io",
-    "packages/socket.io-postgres-emitter",
-    "packages/socket.io-redis-streams-emitter"
-  ],
-  "overrides": {
-    "@types/estree": "0.0.52",
-    "@types/lodash": "4.14.189"
-  },
   "devDependencies": {
     "@babel/core": "^7.24.7",
     "@babel/plugin-transform-object-assign": "^7.24.7",
@@ -79,5 +59,29 @@
     "typescript": "^6.0.3",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.56.0",
     "wdio-geckodriver-service": "^5.0.2"
-  }
+  },
+  "name": "socket.io",
+  "overrides": {
+    "@types/estree": "0.0.52",
+    "@types/lodash": "4.14.189",
+    "ws@\u003e=5 \u003c6": "5.2.8",
+    "ws@\u003e=6 \u003c7": "6.2.7",
+    "ws@\u003e=7 \u003c8": "7.5.14",
+    "ws@\u003e=8 \u003c9": "8.23.0"
+  },
+  "private": true,
+  "workspaces": [
+    "packages/socket.io-component-emitter",
+    "packages/engine.io-parser",
+    "packages/engine.io",
+    "packages/socket.io-cluster-engine",
+    "packages/engine.io-client",
+    "packages/socket.io-adapter",
+    "packages/socket.io-cluster-adapter",
+    "packages/socket.io-parser",
+    "packages/socket.io-client",
+    "packages/socket.io",
+    "packages/socket.io-postgres-emitter",
+    "packages/socket.io-redis-streams-emitter"
+  ]
 }
