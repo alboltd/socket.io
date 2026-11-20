@@ -68,6 +68,7 @@
     "brace-expansion@\u003e=2 \u003c3": "2.1.8",
     "brace-expansion@\u003e=3 \u003c4": "3.0.10",
     "brace-expansion@\u003e=5 \u003c6": "5.0.13",
+    "serialize-javascript": "7.1.4",
     "tar-fs@\u003e=1 \u003c2": "1.16.6",
     "tar-fs@\u003e=2 \u003c3": "2.1.5",
     "tar-fs@\u003e=3 \u003c4": "3.1.3",
