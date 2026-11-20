@@ -27,6 +27,7 @@
   "name": "create-react-app-example",
   "private": true,
   "resolutions": {
+    "@babel/traverse": "7.29.15",
     "form-data": "3.0.5",
     "proxy-addr": "2.0.8",
     "shell-quote": "1.12.0",
