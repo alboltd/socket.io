@@ -8,6 +8,8 @@
   },
   "name": "eio-latency",
   "overrides": {
+    "body-parser@\u003e=1 \u003c2": "1.20.9",
+    "body-parser@\u003e=2 \u003c3": "2.4.0",
     "minimist@\u003c1": "0.2.4",
     "minimist@\u003e=1 \u003c2": "1.2.8"
   },
