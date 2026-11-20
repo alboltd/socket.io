@@ -9,7 +9,12 @@
   "name": "eio-latency",
   "overrides": {
     "minimist@\u003c1": "0.2.4",
-    "minimist@\u003e=1 \u003c2": "1.2.8"
+    "minimist@\u003e=1 \u003c2": "1.2.8",
+    "path-to-regexp@\u003c1": "0.1.13",
+    "path-to-regexp@\u003e=1 \u003c2": "1.9.0",
+    "path-to-regexp@\u003e=3 \u003c4": "3.3.0",
+    "path-to-regexp@\u003e=6 \u003c7": "6.3.0",
+    "path-to-regexp@\u003e=8 \u003c9": "8.4.2"
   },
   "version": "0.1.0"
 }
