@@ -8,8 +8,9 @@
   },
   "name": "eio-latency",
   "overrides": {
-    "minimist@\u003c1": "0.2.4",
-    "minimist@\u003e=1 \u003c2": "1.2.8"
+    "minimist@<1": "0.2.4",
+    "minimist@>=1 <2": "1.2.8",
+    "uglify-js": "2.8.29"
   },
   "version": "0.1.0"
 }
