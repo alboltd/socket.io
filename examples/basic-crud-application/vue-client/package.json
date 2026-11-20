@@ -39,6 +39,7 @@
   "resolutions": {
     "proxy-addr": "2.0.8",
     "shell-quote": "1.12.0",
+    "webpack-dev-server": "5.2.7",
     "websocket-driver": "0.7.5"
   },
   "scripts": {
