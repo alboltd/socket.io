@@ -1,7 +1,16 @@
 {
-  "name": "create-react-app-example",
-  "version": "0.1.0",
-  "private": true,
+  "browserslist": {
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ],
+    "production": [
+      "\u003e0.2%",
+      "not dead",
+      "not op_mini all"
+    ]
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
@@ -12,26 +21,20 @@
     "socket.io": "^4.6.1",
     "socket.io-client": "^4.6.1"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "start-server": "node server.js",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
   "eslintConfig": {
     "extends": "react-app"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "name": "create-react-app-example",
+  "private": true,
+  "resolutions": {
+    "form-data": "3.0.5"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "start-server": "node server.js",
+    "test": "react-scripts test"
+  },
+  "version": "0.1.0"
 }
