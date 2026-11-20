@@ -8,6 +8,8 @@
   },
   "name": "eio-latency",
   "overrides": {
+    "mime@\u003e=1 \u003c2": "1.6.0",
+    "mime@\u003e=2 \u003c3": "2.6.0",
     "minimist@\u003c1": "0.2.4",
     "minimist@\u003e=1 \u003c2": "1.2.8"
   },
