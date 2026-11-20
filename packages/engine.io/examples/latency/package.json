@@ -9,7 +9,9 @@
   "name": "eio-latency",
   "overrides": {
     "minimist@\u003c1": "0.2.4",
-    "minimist@\u003e=1 \u003c2": "1.2.8"
+    "minimist@\u003e=1 \u003c2": "1.2.8",
+    "serve-static@\u003e=1 \u003c2": "1.16.3",
+    "serve-static@\u003e=2 \u003c3": "2.2.1"
   },
   "version": "0.1.0"
 }
