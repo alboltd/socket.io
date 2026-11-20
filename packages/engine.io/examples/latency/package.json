@@ -8,6 +8,9 @@
   },
   "name": "eio-latency",
   "overrides": {
+    "debug@\u003e=2 \u003c3": "2.6.9",
+    "debug@\u003e=3 \u003c4": "3.2.7",
+    "debug@\u003e=4 \u003c5": "4.4.3",
     "minimist@\u003c1": "0.2.4",
     "minimist@\u003e=1 \u003c2": "1.2.8"
   },
