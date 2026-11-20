@@ -1,12 +1,10 @@
 {
-  "name": "vue-client",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "serve": "vue-cli-service serve --port 4200",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
-  },
+  "browserslist": [
+    "\u003e 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
   "dependencies": {
     "core-js": "^3.8.3",
     "pinia": "^2.1.7",
@@ -23,7 +21,6 @@
     "eslint-plugin-vue": "^8.0.3"
   },
   "eslintConfig": {
-    "root": true,
     "env": {
       "node": true
     },
@@ -34,12 +31,18 @@
     "parserOptions": {
       "parser": "@babel/eslint-parser"
     },
+    "root": true,
     "rules": {}
   },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not dead",
-    "not ie 11"
-  ]
+  "name": "vue-client",
+  "private": true,
+  "resolutions": {
+    "shell-quote": "1.12.0"
+  },
+  "scripts": {
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "serve": "vue-cli-service serve --port 4200"
+  },
+  "version": "0.1.0"
 }
