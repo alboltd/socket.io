@@ -28,6 +28,7 @@
   "private": true,
   "resolutions": {
     "form-data": "3.0.5",
+    "proxy-addr": "2.0.8",
     "shell-quote": "1.12.0",
     "websocket-driver": "0.7.5"
   },
