@@ -27,7 +27,8 @@
   "name": "create-react-app-example",
   "private": true,
   "resolutions": {
-    "form-data": "3.0.5"
+    "form-data": "3.0.5",
+    "websocket-driver": "0.7.5"
   },
   "scripts": {
     "build": "react-scripts build",
