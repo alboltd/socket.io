@@ -9,6 +9,7 @@
   },
   "name": "engine.io-protocol-test-suite",
   "overrides": {
+    "braces": "3.0.3",
     "minimatch@\u003e=10 \u003c11": "10.2.6",
     "minimatch@\u003e=3 \u003c4": "3.1.5",
     "minimatch@\u003e=4 \u003c5": "4.2.6",
