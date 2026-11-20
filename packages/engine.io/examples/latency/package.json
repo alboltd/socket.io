@@ -32,6 +32,7 @@
     "path-to-regexp@\u003e=6 \u003c7": "6.3.0",
     "path-to-regexp@\u003e=8 \u003c9": "8.4.2",
     "proxy-addr": "2.0.8",
+    "qs": "6.17.1",
     "shell-quote": "1.12.0",
     "uglify-js": "2.8.29",
     "ws@\u003e=5 \u003c6": "5.2.8",
