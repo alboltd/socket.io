@@ -1,11 +1,15 @@
 {
-  "name": "eio-latency",
-  "version": "0.1.0",
   "dependencies": {
     "enchilada": "0.13.0",
     "engine.io": "^6.4.2",
     "engine.io-client": "^4.1.4",
     "express": "^4.19.2",
     "smoothie": "1.19.0"
-  }
+  },
+  "name": "eio-latency",
+  "overrides": {
+    "minimist@\u003c1": "0.2.4",
+    "minimist@\u003e=1 \u003c2": "1.2.8"
+  },
+  "version": "0.1.0"
 }
