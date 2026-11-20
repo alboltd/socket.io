@@ -8,13 +8,31 @@
   },
   "name": "eio-latency",
   "overrides": {
+    "body-parser@\u003e=1 \u003c2": "1.20.9",
+    "body-parser@\u003e=2 \u003c3": "2.4.0",
+    "debug@\u003e=2 \u003c3": "2.6.9",
+    "debug@\u003e=3 \u003c4": "3.2.7",
+    "debug@\u003e=4 \u003c5": "4.4.3",
     "mime@\u003e=1 \u003c2": "1.6.0",
     "mime@\u003e=2 \u003c3": "2.6.0",
+    "minimatch@\u003c3": "3.1.5",
+    "minimatch@\u003e=10 \u003c11": "10.2.6",
+    "minimatch@\u003e=3 \u003c4": "3.1.5",
+    "minimatch@\u003e=4 \u003c5": "4.2.6",
+    "minimatch@\u003e=5 \u003c6": "5.1.9",
+    "minimatch@\u003e=6 \u003c7": "6.2.3",
+    "minimatch@\u003e=7 \u003c8": "7.4.9",
+    "minimatch@\u003e=8 \u003c9": "8.0.7",
+    "minimatch@\u003e=9 \u003c10": "9.0.9",
     "minimist@\u003c1": "0.2.4",
     "minimist@\u003e=1 \u003c2": "1.2.8",
     "proxy-addr": "2.0.8",
     "shell-quote": "1.12.0",
-    "uglify-js": "2.8.29"
+    "uglify-js": "2.8.29",
+    "ws@\u003e=5 \u003c6": "5.2.8",
+    "ws@\u003e=6 \u003c7": "6.2.7",
+    "ws@\u003e=7 \u003c8": "7.5.14",
+    "ws@\u003e=8 \u003c9": "8.23.0"
   },
   "version": "0.1.0"
 }

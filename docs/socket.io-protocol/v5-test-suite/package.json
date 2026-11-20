@@ -13,6 +13,7 @@
     "brace-expansion@\u003e=2 \u003c3": "2.1.8",
     "brace-expansion@\u003e=3 \u003c4": "3.0.10",
     "brace-expansion@\u003e=5 \u003c6": "5.0.13",
+    "braces": "3.0.3",
     "js-yaml@\u003e=3 \u003c4": "3.15.2",
     "js-yaml@\u003e=4 \u003c5": "4.3.2",
     "minimatch@\u003e=10 \u003c11": "10.2.6",
@@ -24,7 +25,8 @@
     "minimatch@\u003e=8 \u003c9": "8.0.7",
     "minimatch@\u003e=9 \u003c10": "9.0.9",
     "nanoid@\u003e=3 \u003c4": "3.3.20",
-    "nanoid@\u003e=5 \u003c6": "5.1.16"
+    "nanoid@\u003e=5 \u003c6": "5.1.16",
+    "serialize-javascript": "7.1.4"
   },
   "private": true,
   "scripts": {
