@@ -1,12 +1,4 @@
 {
-  "name": "engine.io-protocol-test-suite",
-  "version": "0.0.1",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "format": "prettier -w *.js",
-    "test": "mocha test-suite.js"
-  },
   "devDependencies": {
     "chai": "^4.3.6",
     "chai-string": "^1.5.0",
@@ -15,7 +7,16 @@
     "prettier": "^2.5.1",
     "ws": "^8.21.0"
   },
+  "name": "engine.io-protocol-test-suite",
   "overrides": {
+    "braces": "3.0.3",
     "serialize-javascript": "7.1.4"
-  }
+  },
+  "private": true,
+  "scripts": {
+    "format": "prettier -w *.js",
+    "test": "mocha test-suite.js"
+  },
+  "type": "module",
+  "version": "0.0.1"
 }
