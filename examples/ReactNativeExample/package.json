@@ -27,6 +27,7 @@
   "name": "ReactNativeExample",
   "private": true,
   "resolutions": {
+    "brace-expansion": "1.1.22",
     "braces": "3.0.3",
     "cross-spawn": "7.0.6",
     "fast-xml-parser": "4.5.7",
