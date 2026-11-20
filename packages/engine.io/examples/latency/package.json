@@ -9,7 +9,10 @@
   "name": "eio-latency",
   "overrides": {
     "minimist@\u003c1": "0.2.4",
-    "minimist@\u003e=1 \u003c2": "1.2.8"
+    "minimist@\u003e=1 \u003c2": "1.2.8",
+    "proxy-addr": "2.0.8",
+    "shell-quote": "1.12.0",
+    "uglify-js": "2.8.29"
   },
   "version": "0.1.0"
 }
