@@ -38,6 +38,7 @@
   "private": true,
   "resolutions": {
     "braces": "3.0.3",
+    "flatted": "3.4.4",
     "launch-editor": "2.14.2",
     "lodash": "4.18.1",
     "proxy-addr": "2.0.8",
