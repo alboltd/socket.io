@@ -61,6 +61,7 @@
     "tough-cookie": "4.1.4",
     "webpack": "5.113.0",
     "webpack-dev-middleware": "5.3.4",
+    "webpack-dev-server": "5.2.7",
     "websocket-driver": "0.7.5",
     "word-wrap": "1.2.5",
     "ws": "8.23.0"
