@@ -28,6 +28,7 @@
   "private": true,
   "resolutions": {
     "@babel/traverse": "7.29.15",
+    "body-parser": "1.20.9",
     "braces": "3.0.3",
     "cross-spawn": "7.0.6",
     "flatted": "3.4.4",
