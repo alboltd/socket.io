@@ -67,7 +67,8 @@
     "webpack-dev-server": "5.2.7",
     "websocket-driver": "0.7.5",
     "word-wrap": "1.2.5",
-    "ws": "8.23.0"
+    "ws": "8.23.0",
+    "yaml": "1.10.3"
   },
   "scripts": {
     "build": "react-scripts build",
