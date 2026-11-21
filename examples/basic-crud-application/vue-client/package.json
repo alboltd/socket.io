@@ -37,6 +37,7 @@
   "name": "vue-client",
   "private": true,
   "resolutions": {
+    "@babel/plugin-transform-modules-systemjs": "7.29.15",
     "braces": "3.0.3",
     "flatted": "3.4.4",
     "launch-editor": "2.14.2",
