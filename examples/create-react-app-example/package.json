@@ -58,6 +58,7 @@
     "webpack": "5.113.0",
     "webpack-dev-middleware": "5.3.4",
     "websocket-driver": "0.7.5",
+    "word-wrap": "1.2.5",
     "ws": "8.23.0"
   },
   "scripts": {
