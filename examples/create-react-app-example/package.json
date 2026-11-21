@@ -27,6 +27,7 @@
   "name": "create-react-app-example",
   "private": true,
   "resolutions": {
+    "@adobe/css-tools": "4.5.0",
     "@babel/plugin-transform-modules-systemjs": "7.29.15",
     "@babel/traverse": "7.29.15",
     "body-parser": "1.20.9",
