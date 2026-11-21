@@ -30,6 +30,7 @@
     "@adobe/css-tools": "4.5.0",
     "@babel/helpers": "7.29.15",
     "@babel/plugin-transform-modules-systemjs": "7.29.15",
+    "@babel/runtime": "7.29.15",
     "@babel/traverse": "7.29.15",
     "ajv": "8.20.0",
     "body-parser": "1.20.9",
