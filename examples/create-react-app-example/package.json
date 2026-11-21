@@ -33,6 +33,7 @@
     "lodash": "4.18.1",
     "nth-check": "2.1.1",
     "proxy-addr": "2.0.8",
+    "rollup": "2.80.0",
     "semver": "7.8.6",
     "shell-quote": "1.12.0",
     "webpack": "5.113.0",
